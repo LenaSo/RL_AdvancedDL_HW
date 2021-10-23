@@ -1,2 +1,2 @@
-# RL_AdvancedDL_HW
-Homeworks on RL and Advanced DL at MADE
+## RL and Advanced DL
+Домашние задания по курсу Сергея Николенко в MADE об обучении с подкреплением и порождающих моделях в глубоком обучении.
